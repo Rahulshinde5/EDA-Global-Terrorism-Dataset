@@ -1,5 +1,7 @@
 # Global Terrorism Analysis - Exploratory Data Analysis (EDA)
 
+![image](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/assets/125460745/30a905ae-12f5-49f0-8d85-108522b6eb12)
+[Image source](https://www.gcsp.ch/events/global-terrorism-index-launch-2019)
 
 ## Project Summary
 
@@ -63,6 +65,3 @@ Inspiration from similar projects and online tutorials from AlmaBetter.
 
 This project is licensed under the [MIT License](LICENSE).
 
-![image](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/assets/125460745/30a905ae-12f5-49f0-8d85-108522b6eb12)
-
-[Image source](https://www.gcsp.ch/events/global-terrorism-index-launch-2019)
