@@ -49,7 +49,7 @@ In areas prone to terrorism, businesses can consider:
 Access the [Colab notebook](Global_Terrorism_Analysis_by_Rahul_Shinde.ipynb) to view the detailed project implementation.
 
 ## Presentation
-Link to the presentation slides,[Click here](https://drive.google.com/file/d/19kyfLD6poFjntTbANLwBlHax_aWj6teE/view?usp=sharing) 
+Link to the presentation slides, [Click here](https://drive.google.com/file/d/19kyfLD6poFjntTbANLwBlHax_aWj6teE/view?usp=sharing) 
 
 ## Data Source
 
