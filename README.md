@@ -21,7 +21,7 @@ The business objective centers on identifying high-risk regions and susceptible 
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- 
+  
 ## Solution Recommendations
 
 - **Focus on High-Risk Regions:** Highlight regions with concentrated attacks, like the Middle East and South Asia, suggesting increased security measures and targeted outreach programs.
