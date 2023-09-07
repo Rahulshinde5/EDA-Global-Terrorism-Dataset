@@ -1,7 +1,7 @@
 # Global Terrorism Analysis - Exploratory Data Analysis (EDA)
 
 
-![Screenshot 2023-09-06 192012](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/assets/125460745/d055c883-1e5e-45a1-9946-c7722f1cd3e0)(https://www.novypro.com/project/global-terrorism-analysis-3)
+[![Screenshot 2023-09-06 192012](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/raw/main/assets/125460745/d055c883-1e5e-45a1-9946-c7722f1cd3e0.png)](https://www.novypro.com/project/global-terrorism-analysis-3)
 
 ![image](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/assets/125460745/30a905ae-12f5-49f0-8d85-108522b6eb12)
 [Image source](https://www.gcsp.ch/events/global-terrorism-index-launch-2019)
