@@ -1,11 +1,8 @@
 # Global Terrorism Analysis - Exploratory Data Analysis (EDA)
 
+[Click Here, To Jump on Dashboard.](https://www.novypro.com/project/global-terrorism-analysis-3)
+![Screenshot 2023-09-06 192012](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/assets/125460745/3f8fe316-216d-4c41-944e-e371c2e11b8b)
 
-[![Screenshot 2023-09-06 192012](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/assets/125460745/b0ff2147-5cdf-44c2-9085-ef92639e6b3e)
-](https://www.novypro.com/project/global-terrorism-analysis-3)
-
-![image](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/assets/125460745/30a905ae-12f5-49f0-8d85-108522b6eb12)
-[Image source](https://www.gcsp.ch/events/global-terrorism-index-launch-2019)
 
 Global Terrorism Analysis is an individual-contributed Exploratory Data Analysis (EDA) project focused on comprehending and analyzing worldwide terrorist activities. The project involves gathering and examining data on terrorist attacks, including their locations, tactics, targets, and outcomes. The goal is to extract insights into terrorism patterns, trends, and root causes across different regions. The analysis aids in shaping anti-terrorism strategies, employing techniques such as data mining, machine learning, and statistical analysis.
 
